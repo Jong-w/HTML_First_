@@ -1,25 +1,75 @@
 <!DOCTYPE html>
 <html>
 <body>
+    <div style = "text-align: center;"> 
 
 <h1>Jong-Won Kim</h1>
 <img src=".\img\introduce_name.png" alt="" width="200" height="200">
 <h2>Introduce</h2>
 <p> I’m Jong-Won Kim, a Data scientist. I made and managed Artificial Intelligence club, “Big Wave”. I worked as a mentor in beginner studying groups for 9 months. Experienced holding club seminars that shares member’s knowledge and experiences. I’m working as an undergraduate researcher in “Human + Artificial Intelligence Lab”, which is in Dankook University. I’m doing my own research about Hierarchical Reinforcement Learning. </p>
 
-<h2>Tools</h2>
-  <details>
-    <summary>1. 토글 메뉴를 작동하려면 클릭해주세요.</summary>
-    여기에 자세한 내용이 보입니다. 토글 안에 내용을 작성해보세요.
+<h2></h2>
+
+<table border="1" bordercolor="black" width ="500" height="300" align = "center" >
+    <tr bgcolor="black" align ="center">
+	<p><td colspan = "3" span style="color:white">Education & Work</td></p>
+    </tr>
+    <tr align = "center" bgcolor="gray">
+	<td>Position</td>
+	<td>Start</td>
+	<td>End</td>
+    </tr>
+    <tr>
+	<td>Undergraduate Student</td>
+	<td>20.03</td>
+	<td>24.06</td>
+    </tr>
+    <tr>
+	<td>Undergraduate Researcher</td>
+	<td>22.09</td>
+	<td>X</td>
+    </tr>
+    <tr>
+	<td>Freelancer DataScientist</td>
+	<td>23.02</td>
+	<td>X</td>
+    </tr>
+    <tr>
+    <tr>
+    <td>AI Club President</td>
+    <td>22.03</td>
+    <td>23.01</td>
+    </tr>
+    <tr>
+</table>
+
+    <h2>Tools</h2>
+<details>
+    <summary>Programming Language</summary>
+    -Python -R  -SQL
 </details>
 <details>
-    <summary>2.토글 메뉴를 작동하려면 클릭해주세요.</summary>
-    여기에 자세한 내용이 보입니다. 토글 안에 내용을 작성해보세요.
+    <summary>AI tools</summary>
+    -TensorFlow -Pytorch -pandas -numpy -sklearn -openCV
 </details>
+<details>
+    <summary>DataBases</summary>
+    -MySQL
+</details>
+<details>
+    <summary>Monitoring</summary>
+    -weights & bias -tensorboard
+</details>
+<details>
+    <summary>Visualization</summary>
+    -Tableau -matplotlib -seaborn
+</details>
+
 
 <h2>Contact</h2>
 <p>kjw65144128@gmail.com</p>
 <p>010-4948-6514</p>
+</div>   
 
 </body> 
 </html>
