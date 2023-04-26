@@ -3,9 +3,23 @@
 <body>
 
 <h1>Jong-Won Kim</h1>
-<h3>Introduce</h3>
+<img src=".\img\introduce_name.png" alt="" width="200" height="200">
+<h2>Introduce</h2>
 <p> I’m Jong-Won Kim, a Data scientist. I made and managed Artificial Intelligence club, “Big Wave”. I worked as a mentor in beginner studying groups for 9 months. Experienced holding club seminars that shares member’s knowledge and experiences. I’m working as an undergraduate researcher in “Human + Artificial Intelligence Lab”, which is in Dankook University. I’m doing my own research about Hierarchical Reinforcement Learning. </p>
-<img src="C:\Users\user\Downloads\profile\profile_code\introduce_name.png", alt="My Image" width="100" height="200">
+
+<h2>Tools</h2>
+  <details>
+    <summary>1. 토글 메뉴를 작동하려면 클릭해주세요.</summary>
+    여기에 자세한 내용이 보입니다. 토글 안에 내용을 작성해보세요.
+</details>
+<details>
+    <summary>2.토글 메뉴를 작동하려면 클릭해주세요.</summary>
+    여기에 자세한 내용이 보입니다. 토글 안에 내용을 작성해보세요.
+</details>
+
+<h2>Contact</h2>
+<p>kjw65144128@gmail.com</p>
+<p>010-4948-6514</p>
 
 </body> 
 </html>
