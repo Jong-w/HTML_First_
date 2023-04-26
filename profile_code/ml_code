@@ -1,42 +1,55 @@
 <!DOCTYPE html>
 <html>
 <body>
+    <style>
+      div.ma {
+        width: 300px;
+        border: 1px solid #333333;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      </style>
     <div style = "text-align: center;"> 
 
 <h1>Jong-Won Kim</h1>
 <img src=".\img\introduce_name.png" alt="" width="200" height="200">
 <h2>Introduce</h2>
-<p> I’m Jong-Won Kim, a Data scientist. I made and managed Artificial Intelligence club, “Big Wave”. I worked as a mentor in beginner studying groups for 9 months. Experienced holding club seminars that shares member’s knowledge and experiences. I’m working as an undergraduate researcher in “Human + Artificial Intelligence Lab”, which is in Dankook University. I’m doing my own research about Hierarchical Reinforcement Learning. </p>
-
-<h2></h2>
-
+<p> I’m Jong-Won Kim, a Data scientist. I made and managed Artificial Intelligence club, “Big Wave”. I worked as a mentor in beginner studying groups for 9 months.</p>
+<p> Experienced holding club seminars that shares member’s knowledge and experiences. </p>
+<p> I’m working as an undergraduate researcher in “Human + Artificial Intelligence Lab”, which is in Dankook University. I’m doing my own research about Hierarchical Reinforcement Learning. </p>
+<h2>Education & Work Experiences</h2>
 <table border="1" bordercolor="black" width ="500" height="300" align = "center" >
     <tr bgcolor="black" align ="center">
-	<p><td colspan = "3" span style="color:white">Education & Work</td></p>
+	<p><td colspan = "4" span style="color:white">Education & Work</td></p>
     </tr>
     <tr align = "center" bgcolor="gray">
 	<td>Position</td>
+    <td>type</td>
 	<td>Start</td>
 	<td>End</td>
     </tr>
     <tr>
 	<td>Undergraduate Student</td>
+    <td>Education</td>
 	<td>20.03</td>
 	<td>24.06</td>
     </tr>
     <tr>
 	<td>Undergraduate Researcher</td>
+    <td>Education</td>
 	<td>22.09</td>
 	<td>X</td>
     </tr>
     <tr>
 	<td>Freelancer DataScientist</td>
+    <td>Work</td>
 	<td>23.02</td>
 	<td>X</td>
     </tr>
     <tr>
     <tr>
     <td>AI Club President</td>
+    <td>Work</td>
     <td>22.03</td>
     <td>23.01</td>
     </tr>
@@ -64,6 +77,8 @@
     <summary>Visualization</summary>
     -Tableau -matplotlib -seaborn
 </details>
+
+<h2>Github</h2>
 
 
 <h2>Contact</h2>
