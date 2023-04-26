@@ -14,12 +14,12 @@
 <h1>Jong-Won Kim</h1>
 <img src=".\img\introduce_name.png" alt="" width="200" height="200">
 <br>
-<h2>Introduce</h2>
+<h2>&#128036;Introduce</h2>
 <p> I’m Jong-Won Kim, a Data scientist. I made and managed Artificial Intelligence club, “Big Wave”. I worked as a mentor in beginner studying groups for 9 months.</p>
 <p> Experienced holding club seminars that shares member’s knowledge and experiences. </p>
 <p> I’m working as an undergraduate researcher in “Human + Artificial Intelligence Lab”, which is in Dankook University. I’m doing my own research about Hierarchical Reinforcement Learning. </p>
 <br>
-<h2>Education & Work Experiences</h2>
+<h2>&#127970;Education & Work Experiences</h2>
 <table border="1" bordercolor="black" width ="500" height="300" align = "center" >
     <tr bgcolor="black" align ="center">
 	<p><td colspan = "4" span style="color:white">Education & Work</td></p>
@@ -58,7 +58,7 @@
     <tr>
 </table>
 <br>
-<h2>Interests</h2>
+<h2>&#127932;Interests</h2>
 <h3>Reinforcement Learning</h3>
 <p>Reinforcement Learning is a kind of Machine Learning</p>
 <p>It can learn through interaction with the environment</p>
@@ -70,7 +70,7 @@
 <p>Related Tasks are Machine Translation, Machine Summarization, Chatbot</p>
 
 <br>
-    <h2>Tools</h2>
+    <h2>&#128296;Tools</h2>
 <details>
     <summary>Programming Language</summary>
     -Python -R  -SQL
