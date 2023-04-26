@@ -23,31 +23,35 @@
 <h2>&#127970;Education & Work Experiences</h2>
 <table border="1" bordercolor="black" width ="500" height="300" align = "center" >
     <tr bgcolor="black" align ="center">
-	<p><td colspan = "4" span style="color:white">Education & Work</td></p>
+	<p><td colspan = "5" span style="color:white">Education & Work</td></p>
     </tr>
     <tr align = "center" bgcolor="gray">
 	<td>Position</td>
     <td>type</td>
 	<td>Start</td>
 	<td>End</td>
+    <td>Page</td>
     </tr>
     <tr>
 	<td>Undergraduate Student</td>
     <td>Education</td>
 	<td>20.03</td>
 	<td>24.06</td>
+    <td>https://www.dankook.ac.kr/web/kor</td>
     </tr>
     <tr>
 	<td>Undergraduate Researcher</td>
     <td>Education</td>
 	<td>22.09</td>
 	<td>X</td>
+    <td>https://erratic-puma-75f.notion.site/Human-Artificial-Inteligence-Lab-68dc822330b24bdeb95ca5a8ca10abd8</td>
     </tr>
     <tr>
 	<td>Freelancer DataScientist</td>
     <td>Work</td>
 	<td>23.02</td>
 	<td>X</td>
+    <td>https://kmong.com/gig/446274</td>
     </tr>
     <tr>
     <tr>
@@ -55,6 +59,7 @@
     <td>Work</td>
     <td>22.03</td>
     <td>23.01</td>
+    <td>X</td>
     </tr>
     <tr>
 </table>
