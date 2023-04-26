@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <style>
+      div.ma {
+        width: 300px;
+        border: 1px solid #333333;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      </style>
+    <div style = "text-align: center;"> 
+
+<h1>Jong-Won Kim</h1>
+<img src=".\img\introduce_name.png" alt="" width="200" height="200">
+<br>
+<h2>&#128036;Introduce</h2>
+<h2>HI!!!</h2>
+<p> I’m Jong-Won Kim, a Data scientist. I made and managed Artificial Intelligence club, “Big Wave”. I worked as a mentor in beginner studying groups for 9 months.</p>
+<p> Experienced holding club seminars that shares member’s knowledge and experiences. </p>
+<p> I’m working as an undergraduate researcher in “Human + Artificial Intelligence Lab”, which is in Dankook University. I’m doing my own research about Hierarchical Reinforcement Learning. </p>
+<br>
+<h2>&#127970;Education & Work Experiences</h2>
+<table border="1" bordercolor="black" width ="500" height="300" align = "center" >
+    <tr bgcolor="black" align ="center">
+	<p><td colspan = "5" span style="color:white">Education & Work</td></p>
+    </tr>
+    <tr align = "center" bgcolor="gray">
+	<td>Position</td>
+    <td>type</td>
+	<td>Start</td>
+	<td>End</td>
+    <td>Page</td>
+    </tr>
+    <tr>
+	<td>Undergraduate Student</td>
+    <td>Education</td>
+	<td>20.03</td>
+	<td>24.06</td>
+    <td>https://www.dankook.ac.kr/web/kor</td>
+    </tr>
+    <tr>
+	<td>Undergraduate Researcher</td>
+    <td>Education</td>
+	<td>22.09</td>
+	<td>X</td>
+    <td>https://erratic-puma-75f.notion.site/Human-Artificial-Inteligence-Lab-68dc822330b24bdeb95ca5a8ca10abd8</td>
+    </tr>
+    <tr>
+	<td>Freelancer DataScientist</td>
+    <td>Work</td>
+	<td>23.02</td>
+	<td>X</td>
+    <td>https://kmong.com/gig/446274</td>
+    </tr>
+    <tr>
+    <tr>
+    <td>AI Club President</td>
+    <td>Work</td>
+    <td>22.03</td>
+    <td>23.01</td>
+    <td>X</td>
+    </tr>
+    <tr>
+</table>
+<br>
+<h2>&#127932;Interests</h2>
+<h3>Reinforcement Learning</h3>
+<p>Reinforcement Learning is a kind of Machine Learning</p>
+<p>It can learn through interaction with the environment</p>
+<p>It can be applied to games, autonomous driving and so on</p>
+<p></p>
+<h3>Natural Language Generation</h3>
+<p>Natural Language Generation is a kind of Natural Language Processing.</p>
+<p>It is an AI technology that can write texts based on data</p>
+<p>Related Tasks are Machine Translation, Machine Summarization, Chatbot</p>
+
+<br>
+    <h2>&#128296;Tools</h2>
+<details>
+    <summary>Programming Language</summary>
+    -Python -R  -SQL
+</details>
+<details>
+    <summary>AI tools</summary>
+    -TensorFlow -Pytorch -pandas -numpy -sklearn -openCV
+</details>
+<details>
+    <summary>DataBases</summary>
+    -MySQL
+</details>
+<details>
+    <summary>Monitoring</summary>
+    -weights & bias -tensorboard
+</details>
+<details>
+    <summary>Visualization</summary>
+    -Tableau -matplotlib -seaborn
+</details>
+
+<br>
+<h2>Github</h2>
+<p>*click below if you want to see my  Github page!*</p>
+<a href="https://github.com/Jong-w">https://github.com/Jong-w</a>
+
+<br>
+<h2>Contact</h2>
+<p>*If you interested in me or my interests, please contact through these*</p>
+<p>kjw65144128@gmail.com</p>
+<p>010-4948-6514</p>
+</div>   
+
+</body> 
+</html>
